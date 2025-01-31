@@ -1,0 +1,2 @@
+PurchaseID;CompletionDate;SupplierID;WineIDs;Quantities;DeliveryAddress;TotalPrice
+CP-001;25.10.2023;SUP001;W001,W002;10,5;Склад А;2000.0
