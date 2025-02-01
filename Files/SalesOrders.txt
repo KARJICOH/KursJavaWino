@@ -1,0 +1,2 @@
+OrderID;CustomerID;WineIDs;Quantities;WarehouseAddress;DeliveryAddress;TotalPrice;OrderDate
+SO-001;CUST001;W001,W003;5,3;Склад Б;Москва, ул. Центральная 10;1750.0;25.10.2023

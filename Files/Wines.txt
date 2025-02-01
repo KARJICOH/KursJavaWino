@@ -1,0 +1,4 @@
+ID;Brand;Type;Variety;Origin;BottlingDate;AlcoholContent;SupplierID;PurchasePrice;SalePrice
+W001;Chateau Margaux;Bordeaux Red;Cabernet Sauvignon;France;2015-10-15;13.5;SUP001;150.0;250.0
+W002;Barolo DOCG;Red;Nebbiolo;Italy;2018-05-20;14.0;SUP002;80.0;140.0
+W003;Château Margaux;Красное;Каберне Совиньон;Франция;15.10.2015;13.5;SUP001;150.0;250.0
