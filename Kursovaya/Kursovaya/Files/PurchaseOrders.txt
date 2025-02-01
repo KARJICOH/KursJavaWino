@@ -1,2 +1,0 @@
-OrderID;SupplierID;WineIDs;Quantities;DeliveryAddress;TotalPrice;OrderDate
-PO-001;SUP001;W001,W002;10,5;Склад А;2000.0;25.10.2023

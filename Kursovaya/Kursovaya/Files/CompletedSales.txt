@@ -1,2 +1,0 @@
-SaleID;CompletionDate;CustomerID;WineIDs;Quantities;WarehouseAddress;DeliveryAddress;TotalPrice
-CS-001;25.10.2023;CUST001;W001,W003;5,3;Склад Б;Москва, ул. Центральная 10;1750.0
